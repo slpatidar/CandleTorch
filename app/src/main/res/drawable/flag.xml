@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/flaganim"
+    android:oneshot="false">
+
+   <!-- <item
+        android:drawable="@drawable/candelanimationpsd_1"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/candelanimationpsd_2"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/candelanimationpsd_3"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/candelanimationpsd_4"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/candelanimationpsd_5"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/candelanimationpsd_6"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/candelanimationpsd_7"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/candelanimationpsd_8"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/candelanimationpsd_9"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/candelanimationpsd_10"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/candelanimationpsd_11"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/candelanimationpsd_12"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/candelanimationpsd_13"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/candelanimationpsd_14"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/candelanimationpsd_15"
+        android:duration="100" />-->
+    <item
+        android:drawable="@drawable/candelanimationpsd_16"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/candelanimationpsd_17"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/candelanimationpsd_18"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/candelanimationpsd_19"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/candelanimationpsd_20"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/candelanimationpsd_21"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/candelanimationpsd_22"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/candelanimationpsd_23"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/candelanimationpsd_24"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/candelanimationpsd_25"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/candelanimationpsd_26"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/candelanimationpsd_27"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/candelanimationpsd_28"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/candelanimationpsd_29"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/candelanimationpsd_30"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/candelanimationpsd_31"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/candelanimationpsd_32"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/candelanimationpsd_33"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/candelanimationpsd_34"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/candelanimationpsd_35"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/candelanimationpsd_36"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/candelanimationpsd_37"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/candelanimationpsd_38"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/candelanimationpsd_39"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/candelanimationpsd_40"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/candelanimationpsd_41"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/candelanimationpsd_42"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/candelanimationpsd_43"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/candelanimationpsd_44"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/candelanimationpsd_45"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/candelanimationpsd_46"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/candelanimationpsd_47"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/candelanimationpsd_48"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/candelanimationpsd_49"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/candelanimationpsd_48"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/candelanimationpsd_47"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/candelanimationpsd_46"
+        android:duration="100" />
+    <!--<item
+        android:drawable="@drawable/candelanimationpsd_50"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/candelanimationpsd_51"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/candelanimationpsd_52"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/candelanimationpsd_53"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/candelanimationpsd_54"
+        android:duration="60" />
+    <item
+        android:drawable="@drawable/candelanimationpsd_55"
+        android:duration="60" />
+    <item
+        android:drawable="@drawable/candelanimationpsd_56"
+        android:duration="60" />
+    <item
+        android:drawable="@drawable/candelanimationpsd_57"
+        android:duration="60" />
+    <item
+        android:drawable="@drawable/candelanimationpsd_58"
+        android:duration="60" />
+    <item
+        android:drawable="@drawable/candelanimationpsd_59"
+        android:duration="60" />
+-->
+
+</animation-list>

@@ -1,0 +1,7 @@
+<resources>
+
+    <string name="instuction">मोमबत्ती को बंद करने के लिए मोमबत्ती की आग पर क्लिक करें या  मोमबत्ती पर फूंक मारे </string>
+    <string name="message">इस ऐप को करने के लिए निम्नलिखित अनुमतियां आवश्यक हैं।</string>
+    <string name="permission_granted">अनुमतियां दी गई</string>
+    <string name="permission_denied">अनुमतियां नहीं दी गई</string>
+</resources>

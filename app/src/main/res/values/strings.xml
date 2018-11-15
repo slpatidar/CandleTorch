@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name" translatable="false">Candle Torch</string>
+
+    <string name="instuction">मोमबत्ती को बंद करने के लिए मोमबत्ती की आग पर क्लिक करें या  मोमबत्ती पर फूंक मारे</string>
+    <string name="message">Following permissions are required for perform this App.</string>
+    <string name="permission_granted">Permissions Granted.</string>
+    <string name="permission_denied">Permissions Denied.</string>
+
+<!--
+    <string name="admob_app_id">ca-app-pub-3623624749331782~4543371161</string>
+-->
+    <!--...................app id........-->
+    <string name="admob_app_id">ca-app-pub-8219976241333499~2146989028</string>
+
+ <!--//test id-->
+<!--
+    <string name="banner_home_footer">ca-app-pub-3940256099942544/6300978111</string>
+-->
+<!--
+    <string name="banner_home_footer">ca-app-pub-3623624749331782/6324661009</string>
+-->
+    <string name="banner_home_footer">ca-app-pub-8219976241333499/6221965407</string>
+    <string name="interestial_id">ca-app-pub-8219976241333499/1791975232</string>
+
+</resources>

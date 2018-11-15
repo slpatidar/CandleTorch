@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "763519013495",
+    "firebase_url": "https://candletorch-2b759.firebaseio.com",
+    "project_id": "candletorch-2b759",
+    "storage_bucket": "candletorch-2b759.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:763519013495:android:587798795479795c",
+        "android_client_info": {
+          "package_name": "sp.com.candletorch"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "763519013495-5rgjtop5u4qqj5fel34tptqj3egi7bru.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyJsSiE2jsiD301F-GnRXjdTjPhuB93w0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
